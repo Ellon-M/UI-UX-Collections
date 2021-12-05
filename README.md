@@ -1,8 +1,10 @@
 # UI/UX Resources
-📔 📚 A curated list of awesome resources : articles, books, videos, tools, podcasts about UI/UX.
-![](https://res.cloudinary.com/pediomo/image/upload/v1607170403/UI_UX_resources_qbtjhk.png)
+Articles, Books, Videos, Tools, Podcasts, Communities about UI/UX.
 
-> The “UI” in UI design stands for “user interface.” The user interface is the graphical layout of an application, while the “UX” stands for “user experience.” A user’s experience of the app is determined by how they interact with it. ~ [UX Planet](https://uxplanet.org/what-is-ui-vs-ux-design-and-the-difference-d9113f6612de)
+
+> The “UI” in UI design stands for “user interface.” The user interface is the graphical layout of an application, while the “UX” stands for “user experience.” 
+> 
+> A user’s experience of the app is determined by how they interact with it. ~ [UX Planet](https://uxplanet.org/what-is-ui-vs-ux-design-and-the-difference-d9113f6612de)
 
 
 ## Table of Contents
@@ -14,16 +16,14 @@
 - [UI UX programs to follow](#ui-ux-programs-to-follow)
 - [UI UX blogs to Follow](#ui-ux-blogs-to-follow)
 - [Design inspiration](#design-inspiration)
-
-- [Courses](#courses)
 - [Videos](#videos)
 - [Conferences](#conferences)
 - [Speaker Decks](#speaker-decks)
 - [Books](#books)
-- [UI UX schools](#ui-ux-schools)
 - [Product designers and UI UX designers to follow](#product-designers-and-ui-ux-designers-to-follow)
 - [Podcasts](#podcasts)
 - [Unrelated design](#unrelated-design)
+
 
 ## Community
 * [Jupiter Design Community](https://chat.whatsapp.com/Ku4SUjSmc4zIAg5XzffEcs)
@@ -54,17 +54,19 @@ https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgc
 * [Who Can Use](https://whocanuse.com/)
 
 Illustrations:
+
 * [Undraw](undraw.co)
 * [Storyset](https://storyset.com/)
 * [Drawkit](https://www.drawkit.io/)
 * [Ouch!](https://icons8.com/illustrations)
-* [In fact, this is a longer list for illustrations](https://www.producthunt.com/search?q=illustrations)
 
 Wireframes
+
 * [Printable mobile phone outlines for wireframes and prototypes](https://drive.google.com/file/d/1ot_E9DJ9EYkhvtkxp90mRv_4c9hK1G93/view)
 * [Printable grid paper template](https://www.vertex42.com/WordTemplates/printable-graph-paper.html)
 
 Design Systems
+
 * [Google's Material Design](https://material.io/resources)
 * [Shopify's Design System Polaris](https://polaris.shopify.com/)
 * [Microsoft's Fluent Design System](https://www.microsoft.com/design/fluent/#/), [Microsoft: documentation (design)](https://docs.microsoft.com/en-us/windows/uwp/design/)
@@ -72,6 +74,7 @@ Design Systems
 * [The US Web Design System](https://designsystem.digital.gov/)
 
 UI Kits
+
 * [Shopify's UI kit](https://www.figma.com/@shopify)
 * [Microsoft's UI kit](https://www.figma.com/@microsoft)
 * [Atlassian's UI kit](https://www.figma.com/@atlassian)
@@ -79,15 +82,18 @@ UI Kits
 
 
 Affinity Diagrams
+
 * [Jamboard.Google](https://jamboard.google.com/)
 * [Notely](http://note.ly/#)
 * [Miro](https://miro.com/) - Paid tool
 * [Padlet](https://padlet.com/)
 
 Blob Maker:
+
 * [Blob Maker](https://www.blobmaker.app/)
 
 Usability tests:
+
 * [UXCAM](https://uxcam.com/)
 * [WatchSend](http://new.watchsend.com/)
 * [UserZoom](http://new.watchsend.com/) — Paid.
@@ -95,6 +101,7 @@ Usability tests:
 
 
 Build your portfolio:
+
 * [Semplice](https://www.semplice.com/)
 * [Carbon made](https://carbonmade.com/)
 * [Dunked](https://dunked.com/)
@@ -109,7 +116,9 @@ Templates:
 * [Sketch App Sources](https://www.sketchappsources.com/)
 * [Design Sprint Template](https://docs.google.com/document/d/1WYvwHVjc-9JZTm-0_CK3rmUG--F4bNRC6K-rbSn7094/edit)
 
+
 ## Resources
+
 * [Core design resource 1](https://www.designresourc.es/)
 * [Core design resource 2](https://medium.com/@calderaricaio/growing-list-of-design-resources-67c72a5d4f56)
 * [Core design resource 3](https://www.notion.so/Design-Resources-0e19f815785245ac9cf6a50355f2cb10)
@@ -139,11 +148,13 @@ Templates:
 * [Patterns](http://www.heropatterns.com/)
 
 Designing for Accesibility
+
 * [Google guidelines](https://material.io/design/usability/accessibility.html#understanding-accessibility)
 * [Understanding the need for accessibility](https://www.youtube.com/watch?v=eFkhFxJZvho), [How the blind use technology to see the world](https://www.youtube.com/watch?v=0EQOZRIA-nA)
 * [IBM resource on accessibility](https://www.ibm.com/able/toolkit/)
 
 Design critique guide
+
 * [Mastering Design Critiques](https://uxdesign.cc/design-critique-design-better-products-through-team-collaboration-4c4f26a7be5f)
 * [Design Critique: Where do we start?](https://uxplanet.org/design-critique-where-do-we-start-c8c5cbffb069)
 
@@ -168,10 +179,7 @@ Design critique guide
 * [Rama (Portfolio on notion)](https://www.notion.so/Hey-I-m-Rama-Krushna-53ebad1b8bb04bd491108cac9c293be9)
 * Like to check out the UX portfolios of interns at FAANG companies? Click this link: [Cofolios](https://cofolios.com/)
 * [Bestfolios](https://www.bestfolios.com/casestudy)
-
-
 * [Full Website Design 1](https://www.behance.net/gallery/95636783/Enclave-Online-Dating-App)
-
 * BONUS >>> [GET MENTORSHIP](https://adplist.org/mentors)
 * [Case study template](https://uxdesign.cc/case-study-template-8832941a9d1b?source=bookmarks---------5----------------------------)
 * Don't know what problem to solve for your UX case study? Check here: [Design challenges](https://www.notion.so/Design-Challenges-cb988fb821fc403ebaad9c5b9b7f3077)
@@ -179,20 +187,23 @@ Design critique guide
 
 
 ## Design Laws and Principles
+
 * [Design principles](https://principles.design/)
 * [Laws of UX](https://lawsofux.com). You can also check this [article](https://medium.com/swlh/ux-laws-with-practical-examples-c418b4738d20) for examples of how the laws apply. Like to watch a video of the laws of UX instead? [Click here](https://www.youtube.com/watch?v=fYs2Mdyasuc).
 * [Adobe (UX Rules)](https://xd.adobe.com/ideas/process/ui-design/4-golden-rules-ui-design/)
-
 * [UX design Principles](https://99designs.com/blog/web-digital/ux-design-principles/)
 * [User Experience](https://www.nickkolenda.com/user-experience/)
 
+
 ## UI UX programs to follow
+
 * [100 days of UI](https://www.dailyui.co/) — (You can also generate tasks from: [Sharpen](https://sharpen.design/))
 * [UI/UX Female Bootcamp](http://howican.tech/)
 * [UX/ Product Design Internship Opportunities](https://interns.design/)
 
 
 ## UI UX blogs to Follow
+
 * [Career Foundry](https://careerfoundry.com/en/blog/ux-design/)
 * [UX Planet](https://uxplanet.org/)
 * [The Nielsen Norman Group](https://www.nngroup.com/articles/)
@@ -204,28 +215,21 @@ Design critique guide
 
 
 ## Design inspiration
+
 * [Awwwards](https://www.awwwards.com/)
 * [UI Jar](https://uijar.com/)
+* [Pageflows](https://pageflows.com/)
+* [Landingfolio](https://www.landingfolio.com/)
+* [Minimal Gallery](https://minimal.gallery/)
+* [Godly.website](https://godly.website/)
 
 ## Videos
+
 * [Bulding Amazing Things](https://www.youtube.com/channel/UCbVPTU8fv7e0EjGeQFbIsJA) (Youtube Channel)
 * [The Futur](https://www.youtube.com/user/TheSkoolRocks) (Youtube Channel)
 
-## Courses
-* [Google UX Design Certification Course](https://grow.google/uxdesign/#?modal_active=none)
-
 
 ## Unrelated design
+
 * [Graphics design resource](https://mega.nz/folder/tkxC2IbS#tuCovFzaVY8rAVYBU3VR4g)
 
-
-## Product designers and UI UX designers to follow
-| Name              | Link to Blog/Content profile                                                     | Niche                       | Link to Twitter                                       |
-|-------------------|--------------------------------------------------------------------------|----------------------------------|-------------------------------------------------------|
-| Chris Do   |https://thefutur.com/team/chris-do               | CEO, TheFutur | [@theChrisDo](https://twitter.com/theChrisDo)     |
-| Namnso Ukpanah    | https://www.linkedin.com/in/namnsoukpanah/        | Figma Africa (Community lead) | [@namnsoukpanah](https://twitter.com/namnsoukpanah)     |
-
-
-
-## Contributing
-Found an awesome product designer, UI/UX designer, resource, article, blog, tool, video, speaker deck etc.? Please send me a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
