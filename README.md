@@ -27,7 +27,6 @@ Articles, Books, Videos, Tools, Podcasts, Communities about UI/UX.
 
 ## Community
 * [UX Design Hangout](https://designerhangout.co?mwr=3a1f1519/)
-* [UX Guide](https://ux.guide/)
 * [Interaction Design Foundation](https://www.interaction-design.org/career) (Paid)
 * [Clicked](https://beta.clicked.com/create-clicked-account/?ref=322) (An invite only community)
 * [UX Her](https://www.uxher.com/)
