@@ -14,7 +14,7 @@ Articles, Books, Videos, Tools, Podcasts, Communities about UI/UX.
 - [Design Laws and Principles](#design-laws-and-principles)
 - [UI UX programs to follow](#ui-ux-programs-to-follow)
 - [UI UX blogs to Follow](#ui-ux-blogs-to-follow)
-- [People to follow](#people to follow)
+- [People to follow](#people-to-follow)
 - [Design inspiration](#design-inspiration)
 - [Videos](#videos)
 - [Conferences](#conferences)
