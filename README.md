@@ -2,19 +2,19 @@
 Articles, Books, Videos, Tools, Podcasts, Communities about UI/UX.
 
 
-> The “UI” in UI design stands for “user interface.” The user interface is the graphical layout of an application, while the “UX” stands for “user experience.” 
+> The “UI” in UI design stands for “user interface.” This is the graphical layout of an application, while the “UX” stands for “user experience.” 
 > 
-> A user’s experience of the app is determined by how they interact with it. ~ [UX Planet](https://uxplanet.org/what-is-ui-vs-ux-design-and-the-difference-d9113f6612de)
+> UX design is centered on understanding the people the design is for. This usually means that as UX designers, we strive to design surveys and interview users to harness data.
 
 
 ## Table of Contents
-- [Community](#community)
 - [Design Tools](#design-tools)
 - [Resources](#resources)
 - [Case Studies and Portfolios](#case-studies-and-portfolios)
 - [Design Laws and Principles](#design-laws-and-principles)
 - [UI UX programs to follow](#ui-ux-programs-to-follow)
 - [UI UX blogs to Follow](#ui-ux-blogs-to-follow)
+- [People to follow](#people to follow)
 - [Design inspiration](#design-inspiration)
 - [Videos](#videos)
 - [Conferences](#conferences)
@@ -25,12 +25,6 @@ Articles, Books, Videos, Tools, Podcasts, Communities about UI/UX.
 - [Unrelated design](#unrelated-design)
 
 
-## Community
-* [UX Design Hangout](https://designerhangout.co?mwr=3a1f1519/)
-* [Interaction Design Foundation](https://www.interaction-design.org/career) (Paid)
-* [Clicked](https://beta.clicked.com/create-clicked-account/?ref=322) (An invite only community)
-* [UX Her](https://www.uxher.com/)
-* [List of UX Communities, mostly Slack](https://www.designerslack.community/type/ux)
 
 
 ## Design tools
@@ -102,6 +96,7 @@ Build your portfolio:
 * [Carbon made](https://carbonmade.com/)
 * [Dunked](https://dunked.com/)
 * [Uxfolio](https://www.uxfol.io/)
+* [Adobe Portfolio](https://portfolio.adobe.com)
 
 Showcase your work:
 * [Dribbble](https://dribbble.com/)
@@ -200,7 +195,12 @@ Design critique guide
 
 ## UI UX blogs to Follow
 
-* [Career Foundry](https://careerfoundry.com/en/blog/ux-design/)
+* [alistapart](https://alisapart.com)
+* [UX Booth](https://uxbooth.com)
+* [UX Mastery](https://uxmastery.com)
+* [52 Weeks of UX](https://52weeksofux.com)
+* [UX Matters](https://uxmatters.com)
+* [UX Myths](https://uxmyths.com)
 * [UX Planet](https://uxplanet.org/)
 * [The Nielsen Norman Group](https://www.nngroup.com/articles/)
 * [UX Collective](https://uxdesign.cc/)
@@ -209,6 +209,15 @@ Design critique guide
 * [Sitepoint](https://www.sitepoint.com/design-ux/)
 * [Ux Pin](https://www.uxpin.com/studio/blog/guide-design-consistency-best-practices-ui-ux-designers/)
 
+## People to follow
+
+* [Jared Spool](https://uie.com)
+* [Luke Wroblewski](https://lukew.com)
+* [Karen McGrane](https://karenmcgrane.com)
+* [Oliver Reichenstein](https://nngroup.com)
+* [Don Norman](https://nngroup.com)
+* [Peter Merholz](https//peterme.com)
+* [Julie Zhuo](https://joulee.medium.com)
 
 ## Design inspiration
 
